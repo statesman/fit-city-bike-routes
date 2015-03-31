@@ -1,83 +1,50 @@
+var layer = L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roads/x={x}&y={y}&z={z}',{
+  attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+
+/*
 var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',{
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
 });
 
+*/
+
 var map = L.map('map', {
-  center: [30.264071306509358,-97.74001836776733],
-  zoom: 15,
-  minZoom: 12,
+  center: [30.46998139622128,-98.18618774414062],
+  zoom: 9,
+  minZoom: 3,
   maxZoom: 17
 });
 
 map.addLayer(layer);
 
-var grouped = _.groupBy(mapdata, function(evt){
-	return evt.Year;
+var routes = L.geoJson().addTo(map);
+
+$.getJSON( "dist/routes.json", function( data ) {
+  routes.addData(data);
+  map.fitBounds(routes.getBounds());
 });
 
-function makeIcon(evt) {
-  var icon;
 
-  if(evt.Year === 2014) {
-    icon = 'circle';
-  }
-  else if(evt.Year === 2015 && evt.Status === 'In Review') {
-    icon = 'asterisk';
-  }
-  else {
-    icon = 'square';
-  }
 
-  return new L.divIcon({
-		html: '<i class="fa fa-' + icon + ' event-' + evt.Year + '"></i>',
-		className: 'event-marker',
-		iconSize: L.point(12,12)
-	});
-}
-
-function popupContent(evt) {
-  return '<p><strong>' + evt.EventVenueName + '</strong></p>' +
-    '<p>' + evt.Address + '</p>' +
-    '<p>' + evt.StartDate + ' to ' + evt.EndDate + '</p>';
-}
-
-function makeMarker(evt){
-	var m = L.marker([evt.Latitude, evt.Longitude],{
-		icon: makeIcon(evt),
-    riseOnHover: true
-	});
-  m.bindPopup(popupContent(evt));
-  return m;
-}
-
-var markers2014 = _.map(grouped[2014], makeMarker);
-var markers2015 = _.map(grouped[2015], makeMarker);
-
-var layers = {
-  2014: L.layerGroup(markers2014).addTo(map),
-  2015: L.layerGroup(markers2015).addTo(map)
-};
-
-function setLayers() {
-  var years = $('#year-toggle').find('a').toArray();
-
-  _.each(years, function(el) {
-    var $el = $(el),
-        markerLayer = layers[$el.data('year')];
-
-    if($el.hasClass('selected') && !map.hasLayer(markerLayer)) {
-      map.addLayer(markerLayer);
+function mapFocus(routes,name) {
+  routes.setStyle(function(feature){
+    console.log(name);
+    console.log(feature);
+    if (feature.properties.name === name){
+      var bb = feature.bbox;
+      map.fitBounds([[bb[1],bb[0]], [bb[3],bb[2]]]);
+      return {color: "#FF0000"};
     }
-    else if (!$el.hasClass('selected') && map.hasLayer(markerLayer)) {
-      map.removeLayer(markerLayer);
+    else {
+      return {color: "black"};
     }
   });
 }
 
-$('#year-toggle').on('click', 'a', function(e) {
+$('#route-toggle a').click(function(e){
   e.preventDefault();
-
-  $(e.currentTarget).toggleClass('selected');
-
-  setLayers();
+  var text = $(this).find("h4").text().trim();
+  console.log("from h4",text);
+  mapFocus(routes,text);
 });

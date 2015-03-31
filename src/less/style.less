@@ -1,0 +1,28 @@
+// Bring in vanilla Bootstrap ...
+@import 'custom-bootstrap/bootstrap.less';
+// ... and then decorate it with Statesman styles
+@import 'custom-bootstrap/variables.less';
+
+@import "../../bower_components/font-awesome/less/font-awesome";
+@import (inline) "../../bower_components/leaflet/dist/leaflet.css";
+
+@import "header";
+@import "footer";
+@import "type";
+@import "map";
+
+article {
+  background: white;
+  .box-shadow(0 0 25px rgba(0,0,0,0.05));
+  padding-bottom: @line-height-computed * 2;
+  @media (min-width: @screen-sm-min) {
+    padding-top: @line-height-computed;
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+  .container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}

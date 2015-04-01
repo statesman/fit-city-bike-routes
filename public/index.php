@@ -72,7 +72,7 @@
       <div class="col-xs-12 header">
         <h1>Fit City's favorite bike routes</h1>
         <p>Published Monday, April x, 2015</p>
-        <p class="author">By Christian McDonald and Pam Leblanc</p>
+        <p class="author">By Pam Leblanc, Chritian McDonald and Andrew Chavez</p>
         <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.</p>
         <p>Do yourself a favor and pull your bike out of the shed, pump up its tires, dust off your helmet, squirm into your skin-tight cycling kit and climb aboard. Don’t dawdle, either. It’ll be blistering hot before you know it, and Lycra just isn’t as comfortable when it’s soaked in sweat.</p>
         <p>Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
@@ -90,10 +90,10 @@
           <a href="#" class="list-group-item selected year-2014" data-year="2014">
             <h4 class="list-group-item-heading">Willow City Loop <i class="status-icon pull-right"></i></h4>
             <p class="list-group-item-text">Distance: 13 miles for the loop alone.<br>
-            Start: On RR 1323 at Willow City.<br>
+<!--            Start: On RR 1323 at Willow City.<br>
             Highlights: Wildflowers, old ranches, hills and camera-packing tourists.<br>
             Take a break: Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
-            The details: We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+            The details: We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).--></p>
           </a>
           <a href="#" class="list-group-item selected year-2014" data-year="2014">
             <h4 class="list-group-item-heading">Andice Adventure <i class="status-icon pull-right"></i></h4>

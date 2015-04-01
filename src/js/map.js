@@ -34,10 +34,6 @@ function mapFocus(routes,name) {
     if (feature.properties.name === name){
       var bb = feature.bbox;
       map.fitBounds([[bb[1],bb[0]], [bb[3],bb[2]]]);
-      return {color: "#FF0000"};
-    }
-    else {
-      return {color: "black"};
     }
   });
 }

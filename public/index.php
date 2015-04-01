@@ -91,7 +91,7 @@
           <p><b>Distance:</b> 13 miles for the loop alone.<br>
               <b>Start:</b> On RR 1323 at Willow City.<br>
               <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
-              Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
+              <b>Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
               <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
         </div>
         <div class="route-description" id="andice" data-name="Andice" style="display:none">
@@ -104,8 +104,8 @@
         </div>
         <div class="route-description" id="dripping-springs" data-name="Dripping Springs" style="display:none">
           <h3>Dripping Springs Creek Road</h3>
-          <p><b>Start:</b> Roger Hanks Park, 195 Roger Hanks Parkway, Dripping Springs.<br>
-          <b>Distance:</b> 17 miles.<br>
+          <p><b>Distance:</b> 17 miles.<br>
+          <b>Start:</b> Roger Hanks Park, 195 Roger Hanks Parkway, Dripping Springs.<br>
           <b>Highlights:</b> The creek, the ranches the cows and the barns.<br>
           <b>Take an (overnight) break:</b> Mt. Gainor Inn, 2390 Prochnow Road, <a href="http://www.mtgainorinn.com" target="_blank">www.mtgainorinn.com</a>.<br>
           <b>The details:</b> It seems like everyone knows about this classic, beginner-friendly route. There’s good reason for that - it’s mostly flat, it snakes along gorgeous Onion Creek well before it slides under Interstate 35 in Austin, and it’s not far from home. From Roger Hanks Park you can either ride until it dead ends at State Highway 165 south of Henly, then turn around and ride back, or make an easy loop by hopping on County Road 195 and heading toward Mt. Gainor Road. A few years ago I booked a night at the Mount Gainor Inn, an old-German-farmhouse-turned-bed-and-breakfast on the back half of the ride, then got up the next morning and pedaled to Johnson City and back - about 45 miles of pure heaven. And did I mention the croissant French toast, the hammock, the hummingbirds and the hot tub?</p>

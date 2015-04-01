@@ -5,11 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "Fit City's favorite bike routes",
+    "title" => "Fit City's four favorite bicycle routes near Austin",
     "description" => "Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.",
     "thumbnail" => "http://projects.statesman.com/features/fit-city-bike-routes/assets/share.png",
-    "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
-    "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
+    "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/162015/www.austin360.com_22903be6a1284aafae1b0ed32b32c102.ico",
+    "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/162015/www.austin360.com_c6ab4985ce824d618ead4a6c7b87e4e2.png",
     "url" => "http://projects.statesman.com/features/fit-city-bike-routes/",
     "twitter" => "austin360"
   );
@@ -53,8 +53,8 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="http://www.statesman.com/" target="_blank">
-        <img class="visible-xs visible-sm" width="103" height="26" src="assets/logo-short-black.png" />
-        <img class="hidden-xs hidden-sm" width="273" height="26" src="assets/logo.png" />
+        <img class="visible-xs visible-sm" width="103" height="26" src="assets/logo_austin360_color.png" />
+        <img class="hidden-xs hidden-sm" width="122" height="50" src="assets/logo_austin360_color.png" />
       </a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -70,13 +70,12 @@
   <article class="container">
     <div class="row">
       <div class="col-xs-12 header">
-        <h1>Fit City's favorite bike routes</h1>
+        <h1>Fit City's four favorite bicycle routes near Austin</h1>
         <p>Published Monday, April 6, 2015</p>
         <p class="author">By Pam Leblanc, Christian McDonald and Andrew Chavez</p>
       </div>
-
       <div class="col-xs-12">
-        <div class="text-center" id="route-toggle"><a href="#" class="btn btn-info" role="button">All</a> <a href="#" class="btn btn-info" role="button">Willow City</a> <a href="#" class="btn btn-info" role="button">Andice</a> <a href="#" class="btn btn-info" role="button">Dripping Springs</a> <a href="#" class="btn btn-info" role="button">Southern Walnut Creek</a></p></div>
+        <div class="text-center" id="route-toggle"><a href="#" class="btn btn-primary" role="button">All</a> <a href="#" class="btn btn-primary" role="button">Willow City</a> <a href="#" class="btn btn-primary" role="button">Andice</a> <a href="#" class="btn btn-primary" role="button">Dripping Springs</a> <a href="#" class="btn btn-primary" role="button">Southern Walnut Creek</a></p></div>
       </div>
       <div class="col-md-5 col-xs-12 descriptions">
         <div class="route-description" id="intro" data-name="All">

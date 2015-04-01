@@ -29,8 +29,8 @@ $.getJSON( "dist/routes.json", function( data ) {
 
 function mapFocus(routes,name) {
   routes.setStyle(function(feature){
-    console.log(name);
-    console.log(feature);
+//    console.log(name);
+//    console.log(feature);
     if (feature.properties.name === name){
       var bb = feature.bbox;
       map.fitBounds([[bb[1],bb[0]], [bb[3],bb[2]]]);
@@ -43,8 +43,22 @@ function mapFocus(routes,name) {
 }
 
 $('#route-toggle a').click(function(e){
+  $('#route-toggle a').removeClass("active");
+  $(this).addClass("active");
   e.preventDefault();
-  var text = $(this).find("h4").text().trim();
-  console.log("from h4",text);
+  var text = $(this).text().trim();
+  if(text === "All"){
+      map.fitBounds(routes.getBounds());
+    }
+  $(".descriptions .route-description").each(function(i,el){
+    var name = $(el).data("name");
+    if(text === name){
+      $(el).show();
+    }
+    else {
+      $(el).hide();
+    }
+  });
+//  console.log("from h4",text);
   mapFocus(routes,text);
 });

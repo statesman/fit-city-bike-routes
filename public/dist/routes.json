@@ -455,7 +455,7 @@
     {
       "type": "Feature",
       "properties": {
-          "name": "Willow City Loop"
+          "name": "Willow City"
       },
       "geometry": {
         "type": "LineString",
@@ -858,7 +858,7 @@
     {
       "type": "Feature",
       "properties": {
-          "name": "Andice Adventure"
+          "name": "Andice"
           },
       "geometry": {
         "type": "LineString",
@@ -1653,7 +1653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southern Walnut Creek Trail"
+        "name": "Southern Walnut Creek"
       },
       "geometry": {
         "type": "LineString",

@@ -71,44 +71,62 @@
     <div class="row">
       <div class="col-xs-12 header">
         <h1>Fit City's favorite bike routes</h1>
-        <p>Published Monday, April x, 2015</p>
-        <p class="author">By Pam Leblanc, Chritian McDonald and Andrew Chavez</p>
-        <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.</p>
-        <p>Do yourself a favor and pull your bike out of the shed, pump up its tires, dust off your helmet, squirm into your skin-tight cycling kit and climb aboard. Don’t dawdle, either. It’ll be blistering hot before you know it, and Lycra just isn’t as comfortable when it’s soaked in sweat.</p>
-        <p>Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
+        <p>Published Monday, April 6, 2015</p>
+        <p class="author">By Pam Leblanc, Christian McDonald and Andrew Chavez</p>
       </div>
 
-      <div class="col-md-9 col-sm-8 col-xs-12">
+      <div class="col-xs-12">
+        <div id="route-toggle"><a href="#" class="btn btn-info" role="button">All</a> <a href="#" class="btn btn-info" role="button">Willow City</a> <a href="#" class="btn btn-info" role="button">Andice</a> <a href="#" class="btn btn-info" role="button">Dripping Springs</a> <a href="#" class="btn btn-info" role="button">Southern Walnut Creek</a></p>
+      </div>
+
+      <div class="col-md-5 col-sm-12 col-xs-12 descriptions">
+        <div class="route-description" id="intro" data-name="All">
+          <h3>Get on your bike and ride!</h3>
+          <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.
+          <p>Do yourself a favor and pull your bike out of the shed, pump up its tires, dust off your helmet, squirm into your skin-tight cycling kit and climb aboard. Don’t dawdle, either. It’ll be blistering hot before you know it, and Lycra just isn’t as comfortable when it’s soaked in sweat.</p>
+          <p>Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
+        </div>
+        <div class="route-description" id="willow-city" data-name="Willow City" style="display:none">
+          <h3>Willow City Loop</h3>
+          <p><b>Distance:</b> 13 miles for the loop alone.<br>
+              <b>Start:</b> On RR 1323 at Willow City.<br>
+              <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
+              Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
+              <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+        </div>
+        <div class="route-description" id="andice" data-name="Andice" style="display:none">
+          <h3>Ride to Andice</h3>
+          <p><b>Distance:</b> 13 miles for the loop alone.<br>
+              <b>Start:</b> On RR 1323 at Willow City.<br>
+              <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
+              Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
+              <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+        </div>
+        <div class="route-description" id="dripping-springs" data-name="Dripping Springs" style="display:none">
+          <h3>Dripping Springs Creek Road</h3>
+          <p><b>Distance:</b> 13 miles for the loop alone.<br>
+              <b>Start:</b> On RR 1323 at Willow City.<br>
+              <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
+              Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
+              <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+        </div>
+        <div class="route-description" id="walnut-creek"  data-name="Southern Walnut Creek" style="display:none">
+        <h3>Southern Walnut Creek Trail</h3>
+        <p><b>Distance:</b> 13 miles for the loop alone.<br>
+            <b>Start:</b> On RR 1323 at Willow City.<br>
+            <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
+            Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
+            <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+        </div>
+      </div>
+      <div class="col-md-7 col-sm-12 col-xs-12">
         <div id="map"></div>
       </div>
 
-      <div class="col-md-3 col-sm-4 col-xs-12">
-        <div id="route-toggle" class="list-group">
-          <div class="list-group-item active">
-            <h4 class="list-group-item-heading"><i class="fa fa-filter"></i> Filter by Route</h4>
-          </div>
-          <a href="#" class="list-group-item selected year-2014" data-year="2014">
-            <h4 class="list-group-item-heading">Willow City Loop <i class="status-icon pull-right"></i></h4>
-            <p class="list-group-item-text">Distance: 13 miles for the loop alone.<br>
-<!--            Start: On RR 1323 at Willow City.<br>
-            Highlights: Wildflowers, old ranches, hills and camera-packing tourists.<br>
-            Take a break: Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
-            The details: We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).--></p>
-          </a>
-          <a href="#" class="list-group-item selected year-2014" data-year="2014">
-            <h4 class="list-group-item-heading">Andice Adventure <i class="status-icon pull-right"></i></h4>
-            <p class="list-group-item-text">Andice Adventure description.</p>
-          </a>
-          <a href="#" class="list-group-item selected year-2015" data-year="2015">
-            <h4 class="list-group-item-heading">Dripping Springs <i class="status-icon pull-right"></i></h4>
-            <p class="list-group-item-text">Description</p>
-          </a>
-          <a href="#" class="list-group-item selected year-2014" data-year="2014">
-            <h4 class="list-group-item-heading">Southern Walnut Creek Trail <i class="status-icon pull-right"></i></h4>
-            <p class="list-group-item-text">Southern Walnut Creek Trail description.</p>
-          </a>
-        </div>
-      </div>
+
+
+
+
   </article>
 
   <!-- bottom matter -->

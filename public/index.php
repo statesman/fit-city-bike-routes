@@ -121,7 +121,12 @@
       <div class="col-md-7 col-xs-12">
         <div id="map"></div>
       </div>
-
+    </div>
+    <div class="row">
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
     </div>
   </article>
 

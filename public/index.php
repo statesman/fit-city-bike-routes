@@ -7,7 +7,7 @@
   $meta = array(
     "title" => "Fit City's favorite bike routes",
     "description" => "Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.",
-    "thumbnail" => "http://projects.statesman.com/features/fit-city-bike-routes/assets/share.png", // needs update
+    "thumbnail" => "http://projects.statesman.com/features/fit-city-bike-routes/assets/share.png",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
     "url" => "http://projects.statesman.com/features/fit-city-bike-routes/",
@@ -76,10 +76,9 @@
       </div>
 
       <div class="col-xs-12">
-        <div class="text-center" id="route-toggle"><a href="#" class="btn btn-info" role="button">All</a> <a href="#" class="btn btn-info" role="button">Willow City</a> <a href="#" class="btn btn-info" role="button">Andice</a> <a href="#" class="btn btn-info" role="button">Dripping Springs</a> <a href="#" class="btn btn-info" role="button">Southern Walnut Creek</a></p>
+        <div class="text-center" id="route-toggle"><a href="#" class="btn btn-info" role="button">All</a> <a href="#" class="btn btn-info" role="button">Willow City</a> <a href="#" class="btn btn-info" role="button">Andice</a> <a href="#" class="btn btn-info" role="button">Dripping Springs</a> <a href="#" class="btn btn-info" role="button">Southern Walnut Creek</a></p></div>
       </div>
-
-      <div class="col-md-5 col-sm-12 col-xs-12 descriptions">
+      <div class="col-md-5 col-xs-12 descriptions">
         <div class="route-description" id="intro" data-name="All">
           <h3>Get on your bike and ride!</h3>
           <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.
@@ -120,14 +119,11 @@
         <b>The details:</b> Like to ride without worrying about dodging motor traffic? Head east, where you’ll find nearly 10 miles of separated-from-the-road pedaling bliss between Govalle Park and Walter E. Long Metropolitan Park. The 7.3-mile paved Southern Walnut Creek Trail dips, curves and weaves along Boggy Creek and Walnut Creek, crossing five bridges and four bike underpasses along the way. Short spurs connect it to the East Communities Branch of the YMCA, the Austin Tennis Center and Davis White Northeast District Park. At its eastern end, near the intersection of Johnny Morris Road and Daffan Lane, the trail flows into the first phase of another new bike path, the Austin to Manor Trail. That adds 2.5 more miles to the route, extending it first along a wide sidewalk and then along an old railroad corridor through Walter E. Long Metropolitan Park. The trail officially ends at Lindell Lane, but planners hope to tack on another 2.5 miles, taking it to Ben Fischer Park in Manor. You won’t encounter any cars, but you might spy a snake, pass a field of sunflowers or encounter a swarm of giant grasshoppers.</p>
         </div>
       </div>
-      <div class="col-md-7 col-sm-12 col-xs-12">
+      <div class="col-md-7 col-xs-12">
         <div id="map"></div>
       </div>
 
-
-
-
-
+    </div>
   </article>
 
   <!-- bottom matter -->

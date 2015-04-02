@@ -124,22 +124,24 @@
     </div>
     <div class="row">
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <h4>Willow City</h4>
         <img class="img-responsive" src="assets/willow-city.jpg">
-
-        <p class="caption">Willow City</p>
+        <p class="credit pull-right">name</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <h4>Andice</h4>
         <img class="img-responsive" src="assets/andice.jpg">
-        <p class="caption">Andice</p>
+        <p class="credit pull-right">name</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <h4>Dripping Springs</h4>
         <img class="img-responsive" src="assets/dripping-springs.jpg">
-        <p class="caption">Dripping Springs</p>
+        <p class="credit pull-right">name</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <h4>Southern Walnut Creek</h4>
         <img class="img-responsive" src="assets/walnut-creek.jpg">
         <p class="credit pull-right">Martin do Nascimento/AMERICAN-STATESMAN</p>
-        <p class="caption">Southern Walnut Creek</p>
       </div>
     </div>
   </article>

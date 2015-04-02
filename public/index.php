@@ -123,10 +123,24 @@
       </div>
     </div>
     <div class="row">
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12"><img class="img-responsive" src="http://fillmurray.com/g/800/800"></div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <img class="img-responsive" src="assets/willow-city.jpg">
+
+        <p class="caption">Willow City</p>
+      </div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <img class="img-responsive" src="assets/andice.jpg">
+        <p class="caption">Andice</p>
+      </div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <img class="img-responsive" src="assets/dripping-springs.jpg">
+        <p class="caption">Dripping Springs</p>
+      </div>
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+        <img class="img-responsive" src="assets/walnut-creek.jpg">
+        <p class="credit pull-right">Martin do Nascimento/AMERICAN-STATESMAN</p>
+        <p class="caption">Southern Walnut Creek</p>
+      </div>
     </div>
   </article>
 
@@ -143,3 +157,4 @@
   <?php endif; ?>
 </body>
 </html>
+

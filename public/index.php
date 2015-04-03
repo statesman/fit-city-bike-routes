@@ -7,7 +7,7 @@
   $meta = array(
     "title" => "Fit City's four favorite bicycle routes near Austin",
     "description" => "Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.",
-    "thumbnail" => "http://projects.statesman.com/features/fit-city-bike-routes/assets/share.png",
+    "thumbnail" => "http://projects.statesman.com/features/fit-city-bike-routes/assets/share.jpg",
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/162015/www.austin360.com_22903be6a1284aafae1b0ed32b32c102.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/162015/www.austin360.com_c6ab4985ce824d618ead4a6c7b87e4e2.png",
     "url" => "http://projects.statesman.com/features/fit-city-bike-routes/",
@@ -83,7 +83,7 @@
           <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.</p>
           <p>Do yourself a favor and pull your bike out of the shed, pump up its tires, dust off your helmet, squirm into your skin-tight cycling kit and climb aboard. Don’t dawdle, either. It’ll be blistering hot before you know it, and Lycra just isn’t as comfortable when it’s soaked in sweat.</p>
           <p>Check out four of our favorite local cycling routes and you, too, can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
-          <p>Tap one of the route buttons above to see details about each route.</p>
+          <p>Tap the buttons above to see details about each route.</p>
         </div>
         <div class="route-description" id="willow-city" data-name="Willow City" style="display:none">
           <h3>Willow City Loop</h3>

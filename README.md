@@ -1,4 +1,4 @@
-# Fit city bike permits
+# Fit city bike routes
 
 Based from our single-page project template and SXSW temporary permits, this is a leaflet map using free and [Open Streetmap](http://leaflet-extras.github.io/leaflet-providers/preview/) tiles.
 

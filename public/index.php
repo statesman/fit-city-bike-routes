@@ -53,7 +53,7 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="http://www.statesman.com/" target="_blank">
-        <img class="visible-xs visible-sm" width="103" height="26" src="assets/logo_austin360_color.png" />
+        <img class="visible-xs visible-sm" width="122" height="50" src="assets/logo_austin360_color.png" />
         <img class="hidden-xs hidden-sm" width="122" height="50" src="assets/logo_austin360_color.png" />
       </a>
     </div>
@@ -80,40 +80,40 @@
       <div class="col-md-5 col-xs-12 descriptions">
         <div class="route-description" id="intro" data-name="All">
           <h3>Get on your bike and ride!</h3>
-          <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.
+          <p>Holy spinning bicycle tires, have you peeked outside? Now’s the season Central Texas bicyclists dream about nine months out of the year.</p>
           <p>Do yourself a favor and pull your bike out of the shed, pump up its tires, dust off your helmet, squirm into your skin-tight cycling kit and climb aboard. Don’t dawdle, either. It’ll be blistering hot before you know it, and Lycra just isn’t as comfortable when it’s soaked in sweat.</p>
-          <p>Check out four of our favorite local cycling routes and you too can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
+          <p>Check out four of our favorite local cycling routes and you, too, can admire mooing roadside cows, blowing fields of bluebonnets and some old-timey beer and burger joints while you roll.</p>
           <p>Tap one of the route buttons above to see details about each route.</p>
         </div>
         <div class="route-description" id="willow-city" data-name="Willow City" style="display:none">
           <h3>Willow City Loop</h3>
           <p><b>Distance:</b> 13 miles for the loop alone.<br>
-              <b>Start:</b> On RR 1323 at Willow City.<br>
-              <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists.<br>
-              <b>Take a break:</b> Harry’s on the Loop, 2732 RR 1323, 512-919-9130; the Knot in the Loop Saloon, 236 Farm Road 1323, 830-685-3591.<br>
-              <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on RR 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane ranch road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive - or ride.).</p>
+              <b>Start:</b> On FM 1323 at Willow City.<br>
+              <b>Highlights:</b> Wildflowers, old ranches, hills and camera-packing tourists<br>
+              <b>Take a break:</b> Harry’s on the Loop, 2732 FM 1323, 512-919-9130; the Knot in the Loop Saloon, 236 FM 1323, 830-685-3591.<br>
+              <b>The details:</b> We discovered this route back when the Pedal Power Wildflower Ride still existed. We’d mount up at the Lyndon B. Johnson State Park and Historic Site and start pedaling a 65-mile circuit. If you just want to focus on the loop, you can start riding near Harry’s, a roadside beer joint in Willow City. From there you’ll head west on FM 1323, fly down Highway 16 in a hair-blowing rush, turn onto the wildflower-studded two-lane farm road and wrap it up with a lung-busting climb back out. Part of the route cuts through private ranchland, so be polite. The route attracts plenty of tourists, in cars and on motorcycles and bicycles, each spring. Expect to see bluebonnets, Indian paintbrush, phlox, winecups and lots of docile cattle along Coal Creek and the surrounding hilltops and canyons. Bring your camera. Afterward, stop at Harry’s or the Knot in the Loop Saloon for a cold beer, burgers and live music. (Please don’t drink and drive — or ride.)</p>
         </div>
         <div class="route-description" id="andice" data-name="Andice" style="display:none">
           <h3>Ride to Andice</h3>
           <p><b>Distance:</b> 69 miles.<br>
-          <b>Start:</b> C.C. Mason Elementary School, 1501 N. Lakeline Boulevard, Leander.<br>
+          <b>Start:</b> Mason Elementary School, 1501 N. Lakeline Blvd., Leander.<br>
           <b>Highlights:</b> Rolling hills, farmland and fields of grazing horses and cows.<br>
-          <b>Take a break:</b> Andice General Store, 6500 FM 970, (254) 793-3971.<br>
-          <b>The details:</b> Some cyclists will tell you that Andice General Store serves up the best burgers on the planet. That may be a slight exaggeration - everything tastes better when you’ve burned off a million calories pedaling a bike - but they are sloppy good. So’s the atmosphere at this old-timey, wooden-floored general store that sells everything from duct tape to loaves of white bread about 5 miles southwest of Florence. That’s enough reason to turn it into a cycling destination, isn’t it? To make the burgers taste especially terrific, start in Leander. That’ll turn the ride into an odyssey, complete with lush green valleys, the occasional miniature horse and a dash through Liberty Hill.</p>
+          <b>Take a break:</b> Andice General Store, 6500 FM 970, 254-793-3971.<br>
+          <b>The details:</b> Some cyclists will tell you that Andice General Store serves up the best burgers on the planet. That may be a slight exaggeration — everything tastes better when you’ve burned off a million calories pedaling a bike — but they are sloppy good. So’s the atmosphere at this old-timey, wooden-floored general store that sells everything from duct tape to loaves of white bread about 5 miles southwest of Florence. That’s enough reason to turn it into a cycling destination, isn’t it? To make the burgers taste especially terrific, start in Leander. That’ll turn the ride into an odyssey, complete with lush green valleys, the occasional miniature horse and a dash through Liberty Hill.</p>
         </div>
         <div class="route-description" id="dripping-springs" data-name="Dripping Springs" style="display:none">
-          <h3>Dripping Springs Creek Road</h3>
+          <h3>Creek Road in Dripping Springs</h3>
           <p><b>Distance:</b> 17 miles.<br>
           <b>Start:</b> Roger Hanks Park, 195 Roger Hanks Parkway, Dripping Springs.<br>
-          <b>Highlights:</b> The creek, the ranches the cows and the barns.<br>
+          <b>Highlights:</b> The creek, the ranches, the cows and the barns.<br>
           <b>Take an (overnight) break:</b> Mt. Gainor Inn, 2390 Prochnow Road, <a href="http://www.mtgainorinn.com" target="_blank">www.mtgainorinn.com</a>.<br>
-          <b>The details:</b> It seems like everyone knows about this classic, beginner-friendly route. There’s good reason for that - it’s mostly flat, it snakes along gorgeous Onion Creek well before it slides under Interstate 35 in Austin, and it’s not far from home. From Roger Hanks Park you can either ride until it dead ends at State Highway 165 south of Henly, then turn around and ride back, or make an easy loop by hopping on County Road 195 and heading toward Mt. Gainor Road. A few years ago I booked a night at the Mount Gainor Inn, an old-German-farmhouse-turned-bed-and-breakfast on the back half of the ride, then got up the next morning and pedaled to Johnson City and back - about 45 miles of pure heaven. And did I mention the croissant French toast, the hammock, the hummingbirds and the hot tub?</p>
+          <b>The details:</b> It seems like everyone knows about this classic, beginner-friendly route. There’s good reason for that — it’s mostly flat, it snakes along gorgeous Onion Creek well before it slides under Interstate 35 in Austin, and it’s not far from home. From Roger Hanks Park you can either ride until it dead ends at Texas 165 south of Henly, then turn around and ride back, or make an easy loop by hopping on County Road 195 and heading toward Mt. Gainor Road. A few years ago I booked a night at the Mount Gainor Inn, an old-German-farmhouse-turned-bed-and-breakfast on the back half of the ride, then got up the next morning and pedaled to Johnson City and back — about 45 miles of pure heaven. And did I mention the croissant French toast, the hammock, the hummingbirds and the hot tub?</p>
         </div>
         <div class="route-description" id="walnut-creek"  data-name="Southern Walnut Creek" style="display:none">
         <h3>Southern Walnut Creek Trail</h3>
         <p><b>Distance:</b> 20 miles.<br>
         <b>Start:</b> Govalle Park, 5200 Bolm Road.<br>
-        <b>Highlights:</b> The lack of motor traffic, the bike-sized bridges and underpasses, the sunflowers - and the occasional reptile.<br>
+        <b>Highlights:</b> The lack of motor traffic, the bike-sized bridges and underpasses, the sunflowers — and the occasional reptile.<br>
         <b>Take a break:</b> The free public pool at Govalle Park.<br>
         <b>The details:</b> Like to ride without worrying about dodging motor traffic? Head east, where you’ll find nearly 10 miles of separated-from-the-road pedaling bliss between Govalle Park and Walter E. Long Metropolitan Park. The 7.3-mile paved Southern Walnut Creek Trail dips, curves and weaves along Boggy Creek and Walnut Creek, crossing five bridges and four bike underpasses along the way. Short spurs connect it to the East Communities Branch of the YMCA, the Austin Tennis Center and Davis White Northeast District Park. At its eastern end, near the intersection of Johnny Morris Road and Daffan Lane, the trail flows into the first phase of another new bike path, the Austin to Manor Trail. That adds 2.5 more miles to the route, extending it first along a wide sidewalk and then along an old railroad corridor through Walter E. Long Metropolitan Park. The trail officially ends at Lindell Lane, but planners hope to tack on another 2.5 miles, taking it to Ben Fischer Park in Manor. You won’t encounter any cars, but you might spy a snake, pass a field of sunflowers or encounter a swarm of giant grasshoppers.</p>
         </div>
@@ -126,23 +126,27 @@
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
         <h4>Willow City</h4>
         <img class="img-responsive" src="assets/willow-city.jpg">
-        <p class="credit pull-right">name</p>
+        <p class="credit pull-right">Sandy Kinsey/FOR AMERICAN-STATESMAN</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
         <h4>Andice</h4>
         <img class="img-responsive" src="assets/andice.jpg">
-        <p class="credit pull-right">name</p>
+        <p class="credit pull-right">Laura Skelding/AMERICAN-STATESMAN</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
         <h4>Dripping Springs</h4>
         <img class="img-responsive" src="assets/dripping-springs.jpg">
-        <p class="credit pull-right">name</p>
+        <p class="credit pull-right">Mark Matson/FOR AMERICAN-STATESMAN</p>
       </div>
       <div class="route-image col-lg-3 col-sm-6 col-xs-12">
         <h4>Southern Walnut Creek</h4>
         <img class="img-responsive" src="assets/walnut-creek.jpg">
         <p class="credit pull-right">Martin do Nascimento/AMERICAN-STATESMAN</p>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+      <p>Bike Austin advocates for bicycling, offers education programs and hosts a variety of group bike rides, including trips to Andice. Members get bike shop and other retail discounts, plus invitations to special events. Memberships start at $5 per month or $35 per year ($20 for students, $50 per household). For more information, go to <a href="http://austincycling.org">austincycling.org</a>.</p></div>
     </div>
   </article>
 

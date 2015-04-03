@@ -1,14 +1,14 @@
 # Fit city bike permits
 
-Based from our single-page project template and SXSW temporary permits, this is a leaflet map using free and Open Streetmap tiles.
+Based from our single-page project template and SXSW temporary permits, this is a leaflet map using free and [Open Streetmap](http://leaflet-extras.github.io/leaflet-providers/preview/) tiles.
 
-Built for Pam Leblanc story running 4/6/2015. Should take place of story online. [This should be published link](http://projects.statesman.com/features/fit-city-bike-routes/).
+Built for a Pam Leblanc story running 4/6/2015. Should take place of story online. [This should be published link](http://projects.statesman.com/features/fit-city-bike-routes/).
 
-Used [geojson.io](http://geojson.io/) to create the routes.
+Used [geojson.io](http://geojson.io/) to create the routes. This is an awesome tool that allows you to draw features on a map, then download them as JSON, TopoJSON, .kml, .shp and other geographic formats.
 
 ## Mobile & Social
 
-Built on Twitter bootstrap for mobile, so everything resizes for phone. Standard sharing buttons, along with a custom share image of the map plots.
+Built on Twitter bootstrap, so everything resizes for phone & tablet. Uses our standard sharing buttons, along with a custom share image of the map plots.
 
 ------------------
 

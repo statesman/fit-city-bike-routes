@@ -122,23 +122,23 @@
         <div id="map"></div>
       </div>
     </div>
-    <div class="row">
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+    <div id="route-images" class="row">
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12" data-name="Willow City">
         <h4>Willow City</h4>
         <img class="img-responsive" src="assets/willow-city.jpg">
         <p class="credit pull-right">Sandy Kinsey/FOR AMERICAN-STATESMAN</p>
       </div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12" data-name="Andice">
         <h4>Andice</h4>
         <img class="img-responsive" src="assets/andice.jpg">
         <p class="credit pull-right">Laura Skelding/AMERICAN-STATESMAN</p>
       </div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12" data-name="Dripping Springs">
         <h4>Dripping Springs</h4>
         <img class="img-responsive" src="assets/dripping-springs.jpg">
         <p class="credit pull-right">Mark Matson/FOR AMERICAN-STATESMAN</p>
       </div>
-      <div class="route-image col-lg-3 col-sm-6 col-xs-12">
+      <div class="route-image col-lg-3 col-sm-6 col-xs-12" data-name="Southern Walnut Creek">
         <h4>Southern Walnut Creek</h4>
         <img class="img-responsive" src="assets/walnut-creek.jpg">
         <p class="credit pull-right">Martin do Nascimento/AMERICAN-STATESMAN</p>
